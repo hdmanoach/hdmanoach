@@ -11,7 +11,7 @@ Bonjour, je suis Manoach HOSSOU DODO 👋
 À propos de moi
 
 Passionné par l'open-source et l'innovation, je suis actuellement étudiant
-en 3ème année de Licence en Réseaux, Informatique & Sécurité. Je souhaite
+en fin d'année de Licence en Réseaux, Informatique & Sécurité. Je souhaite
 contribuer activement à la transformation numérique en développant des
 solutions robustes et sécurisées. Relever des défis techniques, notamment
 avec des technologies de pointe, est au cœur de ma motivation.
